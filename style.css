@@ -1,0 +1,16 @@
+header{
+    background: url('inicio.png');
+    background-position: center;
+    display: inline-block;
+    align-items: center;
+}
+
+
+.cidadeMae{
+    margin: 210px 700px 220px 700px;
+    text-align: center;
+}
+
+button{
+    position: center;
+}

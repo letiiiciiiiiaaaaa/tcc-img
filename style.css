@@ -1,3 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Cal+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cal+Sans&family=Questrial&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Questrial', sans-serif;
+}
+
 .cabecalho {
     width: 100%;
     align-items: center;
@@ -10,8 +24,8 @@
 
 .cabecalho h1 {
     text-align: center;
-    height: 100vh;
-    margin: -300px;
+    margin: -300px 0 0 0;
     color: white;
     font-size: 50px;
+    font-family: 'Cal Sans', sans-serif;
 }
